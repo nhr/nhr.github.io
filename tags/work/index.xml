@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>work on N. Harrison Ripps</title>
-    <link>/tags/work/</link>
+    <link>http://www.nharrisonripps.com/tags/work/</link>
     <description>Recent content in work on N. Harrison Ripps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
-    <lastBuildDate>Thu, 18 Feb 2016 05:00:00 +0000</lastBuildDate><atom:link href="/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2016 05:00:00 +0000</lastBuildDate><atom:link href="http://www.nharrisonripps.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advice From an Open-Source Hiring Manager</title>
-      <link>/2016/02/18/advice-from-an-open-source-hiring-manager/</link>
+      <link>http://www.nharrisonripps.com/2016/02/18/advice-from-an-open-source-hiring-manager/</link>
       <pubDate>Thu, 18 Feb 2016 05:00:00 +0000</pubDate>
       
-      <guid>/2016/02/18/advice-from-an-open-source-hiring-manager/</guid>
+      <guid>http://www.nharrisonripps.com/2016/02/18/advice-from-an-open-source-hiring-manager/</guid>
       <description>In Decemeber of 2014 I transitioned from fifteen years of being a developer into being one of the people managers on a really amazing team here at Red Hat. All told, my first year in this role has been a tremendous learning experience for me. If you are interested in becoming a part of a team like this one, here is some advice for you based on the dozens of interviews I have conducted over my first 15 months.</description>
     </item>
     
     <item>
       <title>New Challenges, New Tools</title>
-      <link>/2015/06/10/new-challenges-new-tools/</link>
+      <link>http://www.nharrisonripps.com/2015/06/10/new-challenges-new-tools/</link>
       <pubDate>Wed, 10 Jun 2015 04:00:00 +0000</pubDate>
       
-      <guid>/2015/06/10/new-challenges-new-tools/</guid>
+      <guid>http://www.nharrisonripps.com/2015/06/10/new-challenges-new-tools/</guid>
       <description>I almost feel like a traitor, which is a weird way to feel about consumer electronics. But my next laptop is not going to be a MacBook. Our current development work on OpenShift requires easy access to a docker service, and Boot2docker just doesn’t cut it.
 Apple provides an excellent ecosystem of interrelated apps; they find ways to make it easy to move content from one app to another that seem intuitive.</description>
     </item>

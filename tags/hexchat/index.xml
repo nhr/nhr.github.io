@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hexchat on N. Harrison Ripps</title>
+    <link>/tags/hexchat/</link>
+    <description>Recent content in hexchat on N. Harrison Ripps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
+    <lastBuildDate>Mon, 18 Aug 2014 04:00:00 +0000</lastBuildDate><atom:link href="/tags/hexchat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS X to Fedora 20: The User Experience, Part 1</title>
+      <link>/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/</link>
+      <pubDate>Mon, 18 Aug 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/</guid>
+      <description>A little background here: I have been a Mac enthusiast for a number of years now. I would not say that I am religious about OS X, but if the OS X user experience is a philosophical application of “opinionated software”, then I find myself in agreement with most of the opinions that the Apple UX team has expressed.
+However, I am also an open source developer. I’d like to believe that it is possible to create a similar and possibly even superior experience with a Linux-based desktop environment.</description>
+    </item>
+    
+  </channel>
+</rss>

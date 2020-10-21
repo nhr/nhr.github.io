@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-18T19:49:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/12/18/fedora-31-on-the-razer-stealth-gtx-late-2019/</loc>
+    <lastmod>2019-12-18T19:49:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-12-18T19:49:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/uncategorized/</loc>
+    <lastmod>2019-12-18T19:49:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/12/2019-year-of-the-spartan/</loc>
+    <lastmod>2019-11-12T18:52:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/noomnation/</loc>
+    <lastmod>2019-11-12T18:52:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spartan/</loc>
+    <lastmod>2019-11-12T18:52:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spartantrifecta/</loc>
+    <lastmod>2019-11-12T18:52:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-12T18:52:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cocktails/</loc>
+    <lastmod>2018-04-20T21:22:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/04/20/cocktail-hour-here-at-asciiteam-headquarters/</loc>
+    <lastmod>2018-04-20T21:22:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cloud/</loc>
+    <lastmod>2016-12-06T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/docker/</loc>
+    <lastmod>2016-12-06T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kubernetes/</loc>
+    <lastmod>2016-12-06T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/openshift/</loc>
+    <lastmod>2016-12-06T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</loc>
+    <lastmod>2016-12-06T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/03/18/a-sunbeam-for-mia/</loc>
+    <lastmod>2016-03-18T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/02/18/advice-from-an-open-source-hiring-manager/</loc>
+    <lastmod>2016-02-18T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/open-source/</loc>
+    <lastmod>2016-02-18T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/work/</loc>
+    <lastmod>2016-02-18T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/08/13/comments-on-backing-up-a-linux-laptop/</loc>
+    <lastmod>2015-08-13T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2015-08-13T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apple/</loc>
+    <lastmod>2015-06-10T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/06/10/new-challenges-new-tools/</loc>
+    <lastmod>2015-06-10T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/icloud/</loc>
+    <lastmod>2014-10-20T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/10/20/icloud-family-sharing-great-feature-unless-you/</loc>
+    <lastmod>2014-10-20T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ios8/</loc>
+    <lastmod>2014-10-20T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/itunes/</loc>
+    <lastmod>2014-10-20T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/yosemite/</loc>
+    <lastmod>2014-10-20T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/life/</loc>
+    <lastmod>2014-10-11T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-networking/</loc>
+    <lastmod>2014-10-11T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/10/11/where-to-post-finding-yourself-amongst-ello/</loc>
+    <lastmod>2014-10-11T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/detachment/</loc>
+    <lastmod>2014-09-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/less-is-more/</loc>
+    <lastmod>2014-09-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/09/12/tldr-stop-expecting-achievements-to-make-you/</loc>
+    <lastmod>2014-09-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dropbox/</loc>
+    <lastmod>2014-08-26T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fedora/</loc>
+    <lastmod>2014-08-26T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/</loc>
+    <lastmod>2014-08-26T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/osx/</loc>
+    <lastmod>2014-08-26T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hexchat/</loc>
+    <lastmod>2014-08-18T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/limechat/</loc>
+    <lastmod>2014-08-18T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/</loc>
+    <lastmod>2014-08-18T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/thunderbird/</loc>
+    <lastmod>2014-08-18T04:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

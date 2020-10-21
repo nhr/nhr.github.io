@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>OS X to Fedora 20: The User Experience, Part 1 :: N. Harrison Ripps</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A little background here: I have been a Mac enthusiast for a number of years now. I would not say that I am religious about OS X, but if the OS X user experience is a philosophical application of “opinionated software”, then I find myself in agreement with most of the opinions that the Apple UX team has expressed.
+However, I am also an open source developer. I’d like to believe that it is possible to create a similar and possibly even superior experience with a Linux-based desktop environment." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/" />
+
+
+
+
+<link rel="stylesheet" href="/assets/style.css">
+
+  <link rel="stylesheet" href="/assets/green.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="/img/favicon/green.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="nhripps" />
+  
+    <meta name="twitter:creator" content="Harrison Ripps" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="OS X to Fedora 20: The User Experience, Part 1">
+<meta property="og:description" content="A little background here: I have been a Mac enthusiast for a number of years now. I would not say that I am religious about OS X, but if the OS X user experience is a philosophical application of “opinionated software”, then I find myself in agreement with most of the opinions that the Apple UX team has expressed.
+However, I am also an open source developer. I’d like to believe that it is possible to create a similar and possibly even superior experience with a Linux-based desktop environment." />
+<meta property="og:url" content="/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/" />
+<meta property="og:site_name" content="N. Harrison Ripps" />
+
+  
+    <meta property="og:image" content="/img/favicon/green.png">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+  <meta property="article:section" content="Uncategorized" />
+
+
+  <meta property="article:published_time" content="2014-08-18 04:00:00 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    N. Harrison Ripps
+  </div>
+</a>
+
+    </div>
+    <div class="menu-trigger">menu</div>
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/projects">Projects</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/projects">Projects</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/">OS X to Fedora 20: The User Experience, Part 1</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2014-08-18 
+      </span>
+    
+    
+    <span class="post-author">:: Harrison Ripps</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="/tags/fedora/">fedora</a>&nbsp;
+    
+    #<a href="/tags/hexchat/">hexchat</a>&nbsp;
+    
+    #<a href="/tags/limechat/">limechat</a>&nbsp;
+    
+    #<a href="/tags/linux/">linux</a>&nbsp;
+    
+    #<a href="/tags/osx/">osx</a>&nbsp;
+    
+    #<a href="/tags/thunderbird/">thunderbird</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>A little background here: I have been a Mac enthusiast for a number of years now. I would not say that I am religious about OS X, but if the OS X user experience is a philosophical application of “<a href="http://stackoverflow.com/questions/802050/what-is-opinionated-software">opinionated</a> <a href="https://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php">software</a>”, then I find myself in agreement with most of the opinions that the Apple UX team has expressed.</p>
+<p>However, I am also an open source developer. I’d like to believe that it is possible to create a similar and possibly even superior experience with a Linux-based desktop environment. And lo, this is what lead me, a few weeks ago, to get Fedora 20 running on a MacBook Air. If you’re interested in trying the same thing, check out Matt Hicks’ <a href="http://mattoncloud.org/2014/02/05/fedora-20-on-a-macbook-air/">invaluable blog post</a> on setting things up.</p>
+<p>Over a series of blog posts I am digging into my impressions of the Fedora 20 user experience as I work through this total switch-over.</p>
+<h3 id="the-important-desktop-apps">The Important Desktop Apps<a href="#the-important-desktop-apps" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>I spend 95% of my computer time in front of the same 5 apps:</p>
+<ul>
+<li>A text editor</li>
+<li>A web browser</li>
+<li>A mail client</li>
+<li>A calendar client</li>
+<li>A chat client (specifically for IRC)</li>
+</ul>
+<p>I typically also have several helper apps that I call upon and I usually have music going in the background, but I cover “Cloud stuff” in the next part of this series.</p>
+<h3 id="the-same-same-stuff">The Same-Same Stuff<a href="#the-same-same-stuff" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>For my text editor and web browser, I’m using the same tools on both platforms: vim for text and Firefox for web. The experience of these between OS X and Fedora 20 is 99% identical. Not much else to say there.</p>
+<p>Now as you read on you may be thinking: “hey, you could have identical experiences all the way through if you just used <code>&lt;open_source_tool&gt;</code> in place of <code>&lt;os_x_native_tool&gt;</code>”. And you’d be right. But in the cases below, I really feel like the OS X native tool is a little better, and in each case I will attempt to explain why.</p>
+<h3 id="the-mail-client-mailapp-vs-thunderbird">The Mail Client: Mail.app vs. Thunderbird<a href="#the-mail-client-mailapp-vs-thunderbird" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>I don’t always think that the right answer is to make Linux match OS X, but when OS X does something really well, I wish the open-source equivalent could do the same. In the case of <a href="https://www.mozilla.org/en-US/thunderbird/">Thunderbird</a>, the functionality that I desire is frustratingly close, but not quite there. Specifically, I am talking about the way that Mail.app handles threaded e-mail discussions, both in the e-mails list and the email display field.</p>
+<p>To Thunderbird’s credit, you can edit the columns displayed in the e-mails list, turn on threaded views, and Thuderbird even kinda sorta shows an all-discussion view of the thread. But Mail.app’s multi-line mail list entries make for a narrower emails listing field, and the all-discussion view still shows complete, distinct e-mails from the thread – including your own e-mails which may have gone to the Sent folder but still count as part of the conversation1. Thunderbird doesn’t do this even though <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=213945">someone first raised this issue in 2003 and people have periodically asked for it ever since</a>.</p>
+<p>But while the threaded views leave something to be desired, I will be the first to say that <strong>Thunderbird’s e-mail search is awesome</strong>. It is very fast, includes a cool chart of word hits by year, and shows enough of each e-mail in the search result to give better context for the word being searched.</p>
+<p>Thunderbird isn’t the only mail client for Fedora; in fact, it isn’t even the default client for Fedora. But while <a href="https://wiki.gnome.org/Apps/Evolution">Evolution</a> offers a very Outlook-like experience, the Outlook that it emulates is Outlook 2003. I don’t want to get into a colors and buttons argumnt, but Evolution looks pretty dated and has similar problems to Thunderbird with regard to offering an information-dense layout. Moreover:</p>
+<ul>
+<li>
+<p>Evolution lacks the sort of plugin ecosystem that Thunderbird has. These plugins add a ton of value and help Thunderbird to stay current as new kinds of web services arise.</p>
+</li>
+<li>
+<p>Evolution doesn’t allow you to map mail boxes to known roles, like for instance having an Archive folder. So if you aren’t using Gmail and you want Archive-like behavior, Evolution isn’t for you.</p>
+</li>
+</ul>
+<h3 id="the-calendar-client-calendarapp-vs-lightning">The Calendar Client: Calendar.app vs. Lightning<a href="#the-calendar-client-calendarapp-vs-lightning" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>I’d love to be proven wrong, but as far as I can tell, nothing in the open-source space can even come close to what Apple, Google and Microsoft have done with their calendaring apps. I understand that doing calendaring correctly is a really hard problem, but the net result is that on the client side, open source systems seem to be limited to only the most basic functionality.</p>
+<p>If you only keep calendars for yourself, this is probably not an issue. But for anyone who wants to schedule a meeting or have access to delegate calendars, you are going to run into problems. For this reason, and because I’d already chosen Thunderbird over Evolution, it seemed logical to pick <a href="https://www.mozilla.org/en-US/projects/calendar/">Lightning</a> for e-mail. Lightning is “good enough” for showing me my schedule at a glance, but doesn’t distinguish itself as being a more functional calendar app than any of the other Linux options (like Evolution, or even the nascent <a href="https://wiki.gnome.org/Apps/California">California</a>).</p>
+<h3 id="the-irc-chat-client-limechat-vs-hexchat">The IRC Chat Client: LimeChat vs. HexChat<a href="#the-irc-chat-client-limechat-vs-hexchat" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>I use <a href="http://wiki.znc.in/ZNC">ZNC</a> as a proxy server for several IRC servers where I hang out on a daily basis. ZNC’s primary job is to keep a log of the discussion on the channels that I follow so that if I miss something, I can read about it and follow up later. In order for my ZNC server to know which real IRC server I want to connect to, I need use a log name of the form:</p>
+<pre><code>&lt;znc_username&gt;/&lt;znc_config_name&gt;
+</code></pre>
+<p>Well, you’d be surprised to find out how many IRC clients can’t tolerate a <code>/</code> in your username. On OS X, this drove me right into the arms of <a href="http://limechat.net/mac/">LimeChat</a>. I’m really glad it did, too, because the information density jammed into LimeChat’s subdued interface is totally amazing.</p>
+<p>Many IRC clients on Fedora 20 suffer the same username handling problem, but HexChat stands out for being able to connect to VNC. Additionally it can be configured to look almost identical to LimeChat, save for LimeChat’s awesome extra window pane that shows you a continuous stream of all of the convos from the IRC room you aren’t currently looking at.</p>
+<h3 id="the-upshot-on-native-apps">The Upshot on Native Apps<a href="#the-upshot-on-native-apps" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>From my perspective, Thunderbird, Lightning and HexChat provide a workable experience on Fedora 20. The more time I spend using them, the more I can work around or otherwise just accept those little bits of polish that are lacking compared to OS X. In a few cases, as with Thunderbird’s search, I can even see myself missing that functionality when I’m in front of the OS X native app equivalent. But there’s room for improvement on the Linux side and I’d love to see some open source projects that can close the gap.</p>
+<p>Next up in this series, I’ll be talking aout the cloud services that I use and how I modifed things to use them from both OS X and this Fedora 20 system.</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/">
+                <span class="button__icon">←</span>
+                <span class="button__text">OS X to Fedora 20: The User Experience, Part 2</span>
+            </a>
+        </span>
+        
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>All content copyright &#169; 2014-2020, N. Harrison Ripps except where noted.</span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="/assets/main.js"></script>
+<script src="/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

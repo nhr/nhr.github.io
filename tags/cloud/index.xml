@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on N. Harrison Ripps</title>
+    <link>/tags/cloud/</link>
+    <description>Recent content in cloud on N. Harrison Ripps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
+    <lastBuildDate>Tue, 06 Dec 2016 05:00:00 +0000</lastBuildDate><atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>That App You Love – Headed to DevConf.cz!</title>
+      <link>/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</link>
+      <pubDate>Tue, 06 Dec 2016 05:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</guid>
+      <description>Starting back in September I published a series of articles for the Red Hat Developer Blog under the series title “That App You Love”. I’m psyched to announce that “That App You Wrote”, my followup presentation, has been accepted as a talk at [DevConf.cz](https://devconf.cz) this month! Didn’t read the original series? You can follow along here:
+  [Making a Connection](http://developerblog.redhat.com/2016/09/27/that-app-you-love-part-1-making-a-connection/)
+  [Immutable but Flexible – What Settings Matter?](https://developers.redhat.com/blog/2016/09/29/that-app-you-love-part-2-immutable-but-flexible-what-settings-matter/)</description>
+    </item>
+    
+    <item>
+      <title>OS X to Fedora 20: The User Experience, Part 2</title>
+      <link>/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/</link>
+      <pubDate>Tue, 26 Aug 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/</guid>
+      <description>Just tuning in? Have a look at Part 1 to find out how I installed Fedora 20 on a MacBook Air and why I am so interested in trying to duplicate or even surpass the user experience that I previously enjoyed with OS X.
+The Cloud Cloud-based mail, calendaring and file synching have really levelled the playing field between the desktop OSes. It doesn’t matter if you are using OS X or Linux if you read your e-mail in a web browser.</description>
+    </item>
+    
+  </channel>
+</rss>

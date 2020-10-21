@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>OS X to Fedora 20: The User Experience, Part 2 :: N. Harrison Ripps</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Just tuning in? Have a look at Part 1 to find out how I installed Fedora 20 on a MacBook Air and why I am so interested in trying to duplicate or even surpass the user experience that I previously enjoyed with OS X.
+The Cloud Cloud-based mail, calendaring and file synching have really levelled the playing field between the desktop OSes. It doesn’t matter if you are using OS X or Linux if you read your e-mail in a web browser." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/" />
+
+
+
+
+<link rel="stylesheet" href="/assets/style.css">
+
+  <link rel="stylesheet" href="/assets/green.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="/img/favicon/green.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="nhripps" />
+  
+    <meta name="twitter:creator" content="Harrison Ripps" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="OS X to Fedora 20: The User Experience, Part 2">
+<meta property="og:description" content="Just tuning in? Have a look at Part 1 to find out how I installed Fedora 20 on a MacBook Air and why I am so interested in trying to duplicate or even surpass the user experience that I previously enjoyed with OS X.
+The Cloud Cloud-based mail, calendaring and file synching have really levelled the playing field between the desktop OSes. It doesn’t matter if you are using OS X or Linux if you read your e-mail in a web browser." />
+<meta property="og:url" content="/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/" />
+<meta property="og:site_name" content="N. Harrison Ripps" />
+
+  
+    <meta property="og:image" content="/img/favicon/green.png">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+  <meta property="article:section" content="Uncategorized" />
+
+
+  <meta property="article:published_time" content="2014-08-26 04:00:00 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    N. Harrison Ripps
+  </div>
+</a>
+
+    </div>
+    <div class="menu-trigger">menu</div>
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/projects">Projects</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/projects">Projects</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/">OS X to Fedora 20: The User Experience, Part 2</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2014-08-26 
+      </span>
+    
+    
+    <span class="post-author">:: Harrison Ripps</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="/tags/cloud/">cloud</a>&nbsp;
+    
+    #<a href="/tags/dropbox/">dropbox</a>&nbsp;
+    
+    #<a href="/tags/fedora/">fedora</a>&nbsp;
+    
+    #<a href="/tags/linux/">linux</a>&nbsp;
+    
+    #<a href="/tags/osx/">osx</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>Just tuning in? Have a look at <a href="https://asciiteam.io/post/173163611822/os-x-to-fedora-20-the-user-experience-part-1">Part 1</a> to find out how I installed Fedora 20 on a MacBook Air and why I am so interested in trying to duplicate or even surpass the user experience that I previously enjoyed with OS X.</p>
+<h3 id="the-cloud">The Cloud<a href="#the-cloud" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>Cloud-based mail, calendaring and file synching have really levelled the playing field between the desktop OSes. It doesn’t matter if you are using OS X or Linux if you read your e-mail in a web browser. Cloud-based services are also the foundation of another important aspect of my day-to-day life: my “gadgets ecosystem”. Even though I’m spending most of my time on Fedora 20 now, my phone and tablet still run iOS. As you will see, this strongly influenced the way that I’ve leveraged the cloud in my system setup.</p>
+<p>Here are the services that I needed to put in the cloud:</p>
+<ul>
+<li>Mail</li>
+<li>Address Book</li>
+<li>Calendar</li>
+<li>To-Do List(s)</li>
+<li>Notes</li>
+<li>Files (read: a small number of files that would be handy to all of my devices)</li>
+<li>Password Management</li>
+</ul>
+<p>Some of these were no-brainers, others drove me to try and end up loving some interesting new services…</p>
+<h3 id="mail">Mail<a href="#mail" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>People don’t normally think of mail as a cloud service, but for most folks, it is. I could run my own mail server but I like the fact that my e-mail stuff is being handled by someone who’s full time job is e-mail, and that the service is configured for high availability. That said, part of the reason that I use a native mail client rather than just using my mail service’s web client is so that I can also have a local copy of all of the e-mail. This makes for faster searches and I always have those e-mails on hand if the mail service goes offline.</p>
+<p>That all said, mail is pretty much the original cloud service and <a href="https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol">IMAP</a> keeps everything in sync for me, so problem solved.</p>
+<h3 id="address-book">Address Book<a href="#address-book" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>It may seem odd to think of an address book as being separate from a mail service, but in the cloud, they are. If you use Gmail, Hotmail, Yahoo mail, or any of the other popular free e-mail services, you never have to worry about this distinction. This is because Fedora and OS X both understand the concept of bundled internet accounts. You tell your computer “I have a Google account” and then your computer asks you which services to use from the bundled list.</p>
+<p>But I don’t use Gmail for mail, and furthermore I actually dislike Google’s approch to putting every last e-mail address and Google Plus profile in my address book without my consent. For a long time I used iCloud’s address book, but that’s a no-go from a Linux system. So, enter <a href="https://owncloud.org/">ownCloud</a>.</p>
+<p>ownCloud could actually be the answer to a few of the questions in this post, but in my setup I use it expressly for my address book. This lives on an <a href="https://hub.openshift.com/quickstarts/4-owncloud">ownCloud server hosted on OpenShift</a>. Advantages:</p>
+<ul>
+<li>Use of the industry-standard CardDAV protocol makes this solution work for my Linux laptop and my mobile iOS devices</li>
+<li>Two-factor authentication for heightened security</li>
+<li>Hosting on OpenShift means that:
+<ul>
+<li>My app is monitored and restarted if necessary</li>
+<li>I can automate backups with the rhc utility</li>
+</ul>
+</li>
+</ul>
+<h3 id="calendar">Calendar<a href="#calendar" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>I have to grudgingly give a nod to Google on this one. By solving calendaring and then building a social network with built-in event scheduling, they’ve created a siituation where it is hard to use anything else. ownCloud supports calendaring, but scheduling events across different calendaring systems seems very spotty.</p>
+<p>I threw up my hands on this one; too many folks that I need to share my non-work plans with are all on Google, so I have to live with Google for this as well.</p>
+<h3 id="to-do-lists">To-Do Lists<a href="#to-do-lists" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>Apple’s “Reminders” app adds a lot of value beyond making lists. Probably the strongest feature there is the ability to geotag a task (e.g. Remind about picking up milk when I get to the grocery store). What “Reminders” doesn’t do is enable me to quickly create tasks from the Terminal, which is where I am working most of the time.</p>
+<p>I’ve ended up splitting the difference on this one. If I need to geotag a task, I’ll create it in Reminders app on my iPhone. Otherwise, I have found an awesome task list solution in <a href="http://todotxt.com/">Todo.txt</a>.</p>
+<p>Todo.txt is great for a few reasons:</p>
+<ul>
+<li>Available from the command line</li>
+<li>Can be cloud-enabled via <a href="https://www.dropbox.com/">Dropbox</a> integration<!-- raw HTML omitted --><!-- raw HTML omitted -->1<!-- raw HTML omitted --><!-- raw HTML omitted --></li>
+<li>Data is stored in a plain text file</li>
+<li>Native apps exist for getting at your lists from iOS / Android devices</li>
+</ul>
+<p>There’s a blog post idea in my future where I talk more about why plain text file formats are so great, but for now, the takeaway is that todo.txt uses a winning combination of simplicity and optional cloud availability.</p>
+<h3 id="notes">Notes<a href="#notes" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>Finding an alternative to Notes.app can be dirt simple depending on what you want out of the app. At a minimum, you could simply designate a folder in your DropBox for notes and voila, problem solved. This is particularly true in Fedora 20 and OS X, both of which come with automatic file indexing.</p>
+<p>However, I wanted faster navigation between notes and more targeted searching, and that led me to try out <a href="https://github.com/cpbotha/nvpy">nvpy</a>. This oddly-named <a href="https://www.python.org/-port">Python</a> of <a href="http://notational.net/">Notational Velocity</a> makes use of global hotkeys and a very complete set of app-wise key combinations to provide a note-keeping and note-searching powerhouse. It can sync with <a href="http://simplenote.com/">SimpleNote</a>’s API but it also does perfectly well writing Notes to text files, which brings us back into DropBox territory.</p>
+<p><code>nvpy</code> also runs on OS X, but <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> looks a little slicker on OS X and can handle the same DropBox-synced note files as <code>nvpy</code>. There is one difference: <code>nvALT</code> will allow you to create notes with whitespace in the titles while <code>nvpy</code> will not, so get into the habit of putting underscores in the first line of the note.</p>
+<p>The main benefit to this approach is that I can still get at those same notes from iOS. <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fitunes.apple.com%2FUS%2Fapp%2Fid382752422%3Fmt%3D8&amp;t=ZjI5ZDJhOTkzOGUyYjE4MGUzZWM1YWVmYjJlYzEzOTk2NTgzMzZjOSxaV3FDd05GWA%3D%3D">Elements for DropBox</a> is a Markdown-friendly notes app that has no trouble displaying the notes that I create in nvpy.</p>
+<p>As an aside, ownCloud has a plugin for Notes, but the only way to see / use the notes is through the web UI or the native ownCloud apps. If I <em>really</em> wanted to solve this I’d go with the “just use text files” solution, but we get access from Fedora, OS X, and iOS with DropBox.</p>
+<h3 id="files">Files<a href="#files" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>By now I think you can guess which direction I took. With DropBox and ownCloud to choose from, I’ve gone with DropBox simply because so many more apps can get at those files. If I had very sensitive data to store, I could use ownCloud at the cost of less ease of access.</p>
+<h3 id="password-management">Password Management<a href="#password-management" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>On OS X I am huge fan of <a href="https://agilebits.com/onepassword">1Password</a>. However, that’s not going to help me on Fedora. The best solution that I could find was <a href="https://lastpass.com/">LastPass</a>, which runs as a browser plugin under OS X, Linux, and anything else that can run modern builds of FireFox, Chrome or Safari.</p>
+<p>LastPass is free for basic services, but if you want a native mobile app, you need to subscribe. My cheapskate workaround is simply to log into LastPass with my account and manually copy passwords when I need to use them on iOS.</p>
+<h3 id="the-tldr-on-cloud-services">The TL;DR on Cloud Services<a href="#the-tldr-on-cloud-services" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>Cloud services offer a great way to level the playing field between Fedora 20 and OS X. By shifting my cloud usage to apps that could leverage DropBox or presented well-know web services APIs, I was able to create a setup that makes Fedora 20 work as well as OS X and still be able to get at the same data from my iOS-based mobile devices.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="/2014/09/12/tldr-stop-expecting-achievements-to-make-you/">
+                <span class="button__icon">←</span>
+                <span class="button__text">TL;DR: Stop Expecting Achievements to Make You Happy</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/">
+                <span class="button__text">OS X to Fedora 20: The User Experience, Part 1</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>All content copyright &#169; 2014-2020, N. Harrison Ripps except where noted.</span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="/assets/main.js"></script>
+<script src="/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

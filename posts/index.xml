@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on N. Harrison Ripps</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on N. Harrison Ripps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
+    <lastBuildDate>Wed, 18 Dec 2019 19:49:52 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora 31 on the Razer Stealth GTX (Late 2019)</title>
+      <link>/2019/12/18/fedora-31-on-the-razer-stealth-gtx-late-2019/</link>
+      <pubDate>Wed, 18 Dec 2019 19:49:52 +0000</pubDate>
+      
+      <guid>/2019/12/18/fedora-31-on-the-razer-stealth-gtx-late-2019/</guid>
+      <description>My hunt for a shiny new laptop always starts with the best of intentions, but well-intentioned laptops usually don’t come with gaming-ready GPUs. What do I mean by a “well-intentioned” laptop? I have a lot of respect for System76 and Star Labs for their lovely Linux-first systems, and particular respect for Purism‘s holistic approach to the union of open source hardware and privacy. But I’d be lying to myself if I didn’t admit that my ideal laptop is just as capable of running triple-A video games as it is of running Linux-based workloads.</description>
+    </item>
+    
+    <item>
+      <title>2019: Year of the Spartan</title>
+      <link>/2019/11/12/2019-year-of-the-spartan/</link>
+      <pubDate>Tue, 12 Nov 2019 18:52:06 +0000</pubDate>
+      
+      <guid>/2019/11/12/2019-year-of-the-spartan/</guid>
+      <description>In October of 2018, I got my annual physical and came face-to-face with the reality of my current weight and fitness levels. I was at 30 BMI and at my lowest amount of regular physical activity in years. The trend was not good.
+My wife encouraged me to try Noom – I signed up for it the same day as my physical – and the support and coaching that I got through that little mobile app was transformational.</description>
+    </item>
+    
+    <item>
+      <title>TGIF</title>
+      <link>/2018/04/20/cocktail-hour-here-at-asciiteam-headquarters/</link>
+      <pubDate>Fri, 20 Apr 2018 21:22:55 +0000</pubDate>
+      
+      <guid>/2018/04/20/cocktail-hour-here-at-asciiteam-headquarters/</guid>
+      <description>Cocktail Hour Here at The Internet Shipyards, Friday night is cocktail night. Today’s special guest: the Rusty Nail, also known as the World’s Simplest Cocktail.
+ 1 part Drambuie 1 part cheap scotch  I can’t overstate how cheap the scotch should be. If it doesn’t come in a bottle with a white label that says “SCOTCH” on it, it’s probably too fancy for this cocktail.
+Cheers 🙂</description>
+    </item>
+    
+    <item>
+      <title>That App You Love – Headed to DevConf.cz!</title>
+      <link>/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</link>
+      <pubDate>Tue, 06 Dec 2016 05:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</guid>
+      <description>Starting back in September I published a series of articles for the Red Hat Developer Blog under the series title “That App You Love”. I’m psyched to announce that “That App You Wrote”, my followup presentation, has been accepted as a talk at [DevConf.cz](https://devconf.cz) this month! Didn’t read the original series? You can follow along here:
+  [Making a Connection](http://developerblog.redhat.com/2016/09/27/that-app-you-love-part-1-making-a-connection/)
+  [Immutable but Flexible – What Settings Matter?](https://developers.redhat.com/blog/2016/09/29/that-app-you-love-part-2-immutable-but-flexible-what-settings-matter/)</description>
+    </item>
+    
+    <item>
+      <title>A Sunbeam for Mia</title>
+      <link>/2016/03/18/a-sunbeam-for-mia/</link>
+      <pubDate>Fri, 18 Mar 2016 16:00:00 +0000</pubDate>
+      
+      <guid>/2016/03/18/a-sunbeam-for-mia/</guid>
+      <description>We lost Mia today. I’ve always read posts like this with some amount of indifference because in the back of my head I am thinking “this is just an animal” and “this is not a person”. And so I forgive you for feeling the same way. I understand that response.
+This stream of thoughts is really for me, and it is also for my wife and kids and anyone else who feels the loss of our “just a cat” as acutely as I am feeling it right now.</description>
+    </item>
+    
+    <item>
+      <title>Advice From an Open-Source Hiring Manager</title>
+      <link>/2016/02/18/advice-from-an-open-source-hiring-manager/</link>
+      <pubDate>Thu, 18 Feb 2016 05:00:00 +0000</pubDate>
+      
+      <guid>/2016/02/18/advice-from-an-open-source-hiring-manager/</guid>
+      <description>In Decemeber of 2014 I transitioned from fifteen years of being a developer into being one of the people managers on a really amazing team here at Red Hat. All told, my first year in this role has been a tremendous learning experience for me. If you are interested in becoming a part of a team like this one, here is some advice for you based on the dozens of interviews I have conducted over my first 15 months.</description>
+    </item>
+    
+    <item>
+      <title>Comments on Backing Up a Linux Laptop</title>
+      <link>/2015/08/13/comments-on-backing-up-a-linux-laptop/</link>
+      <pubDate>Thu, 13 Aug 2015 04:00:00 +0000</pubDate>
+      
+      <guid>/2015/08/13/comments-on-backing-up-a-linux-laptop/</guid>
+      <description>My primary workhorse right now is an HP Omen running Fedora 22. Thinking and talking about how to restore my work environment from a total failure, I came to the conclusion that there are three primary things that need to be preserved:
+Item 1: My entire user directory under /home, since that’s where all my stuff is.
+Solution: Crashplan is impressing me – slick commercial-quality UI, completely free for mounted “local” disk backups and peer-to-peer backups through their central broker.</description>
+    </item>
+    
+    <item>
+      <title>New Challenges, New Tools</title>
+      <link>/2015/06/10/new-challenges-new-tools/</link>
+      <pubDate>Wed, 10 Jun 2015 04:00:00 +0000</pubDate>
+      
+      <guid>/2015/06/10/new-challenges-new-tools/</guid>
+      <description>I almost feel like a traitor, which is a weird way to feel about consumer electronics. But my next laptop is not going to be a MacBook. Our current development work on OpenShift requires easy access to a docker service, and Boot2docker just doesn’t cut it.
+Apple provides an excellent ecosystem of interrelated apps; they find ways to make it easy to move content from one app to another that seem intuitive.</description>
+    </item>
+    
+    <item>
+      <title>iCloud “Family Sharing”: Great Feature Unless You Use iTunes Match</title>
+      <link>/2014/10/20/icloud-family-sharing-great-feature-unless-you/</link>
+      <pubDate>Mon, 20 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/20/icloud-family-sharing-great-feature-unless-you/</guid>
+      <description>Family Sharing provides users with a way to share purchases from their iCloud/iTunes account with up to five other people. Additionally, this feature enables you to create iCloud accounts for children, and to manage the purchases and content available to those accounts.
+iTunes has been around a lot longer than this feature, and so for years now, people have had to a different means to share app purchases across multiple users.</description>
+    </item>
+    
+    <item>
+      <title>Where to Post? Finding Yourself Amongst Ello, Facebook, and the Glut of Social Media</title>
+      <link>/2014/10/11/where-to-post-finding-yourself-amongst-ello/</link>
+      <pubDate>Sat, 11 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/11/where-to-post-finding-yourself-amongst-ello/</guid>
+      <description>Ello is a social platform that has been the subject of some buzz recently. Either by design or by accident, Ello is squarely positioned as the anti-Facebook, which immediately places it in a similar space in people’s minds. That’s a great deal for Ello, because feature-wise they have a long way to go before the can really throw down: no mobile app, no OAuth, no API. Ello claims to be built on a Freemium model that will sustain the company without them resorting to selling user info; but only time will tell.</description>
+    </item>
+    
+    <item>
+      <title>TL;DR: Stop Expecting Achievements to Make You Happy</title>
+      <link>/2014/09/12/tldr-stop-expecting-achievements-to-make-you/</link>
+      <pubDate>Fri, 12 Sep 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/12/tldr-stop-expecting-achievements-to-make-you/</guid>
+      <description>A moment of clarity from the folks at HuffPo…
+ Here’s the best part: When you detach happiness from achievement, these five things that happen are the key ingredients to success. Disconnecting happiness from achievement is the best way to achieve anything…
+ </description>
+    </item>
+    
+    <item>
+      <title>OS X to Fedora 20: The User Experience, Part 2</title>
+      <link>/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/</link>
+      <pubDate>Tue, 26 Aug 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/26/os-x-to-fedora-20-the-user-experience-part-2/</guid>
+      <description>Just tuning in? Have a look at Part 1 to find out how I installed Fedora 20 on a MacBook Air and why I am so interested in trying to duplicate or even surpass the user experience that I previously enjoyed with OS X.
+The Cloud Cloud-based mail, calendaring and file synching have really levelled the playing field between the desktop OSes. It doesn’t matter if you are using OS X or Linux if you read your e-mail in a web browser.</description>
+    </item>
+    
+    <item>
+      <title>OS X to Fedora 20: The User Experience, Part 1</title>
+      <link>/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/</link>
+      <pubDate>Mon, 18 Aug 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/18/os-x-to-fedora-20-the-user-experience-part-1/</guid>
+      <description>A little background here: I have been a Mac enthusiast for a number of years now. I would not say that I am religious about OS X, but if the OS X user experience is a philosophical application of “opinionated software”, then I find myself in agreement with most of the opinions that the Apple UX team has expressed.
+However, I am also an open source developer. I’d like to believe that it is possible to create a similar and possibly even superior experience with a Linux-based desktop environment.</description>
+    </item>
+    
+  </channel>
+</rss>

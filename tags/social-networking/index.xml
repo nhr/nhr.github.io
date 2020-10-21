@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social networking on N. Harrison Ripps</title>
+    <link>/tags/social-networking/</link>
+    <description>Recent content in social networking on N. Harrison Ripps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
+    <lastBuildDate>Sat, 11 Oct 2014 04:00:00 +0000</lastBuildDate><atom:link href="/tags/social-networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where to Post? Finding Yourself Amongst Ello, Facebook, and the Glut of Social Media</title>
+      <link>/2014/10/11/where-to-post-finding-yourself-amongst-ello/</link>
+      <pubDate>Sat, 11 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/11/where-to-post-finding-yourself-amongst-ello/</guid>
+      <description>Ello is a social platform that has been the subject of some buzz recently. Either by design or by accident, Ello is squarely positioned as the anti-Facebook, which immediately places it in a similar space in people’s minds. That’s a great deal for Ello, because feature-wise they have a long way to go before the can really throw down: no mobile app, no OAuth, no API. Ello claims to be built on a Freemium model that will sustain the company without them resorting to selling user info; but only time will tell.</description>
+    </item>
+    
+  </channel>
+</rss>

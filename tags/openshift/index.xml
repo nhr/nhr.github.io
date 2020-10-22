@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>openshift on N. Harrison Ripps</title>
-    <link>http://www.nharrisonripps.com/tags/openshift/</link>
+    <link>https://www.nharrisonripps.com/tags/openshift/</link>
     <description>Recent content in openshift on N. Harrison Ripps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
-    <lastBuildDate>Tue, 06 Dec 2016 05:00:00 +0000</lastBuildDate><atom:link href="http://www.nharrisonripps.com/tags/openshift/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2016 05:00:00 +0000</lastBuildDate><atom:link href="https://www.nharrisonripps.com/tags/openshift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>That App You Love – Headed to DevConf.cz!</title>
-      <link>http://www.nharrisonripps.com/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</link>
+      <link>https://www.nharrisonripps.com/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</link>
       <pubDate>Tue, 06 Dec 2016 05:00:00 +0000</pubDate>
       
-      <guid>http://www.nharrisonripps.com/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</guid>
+      <guid>https://www.nharrisonripps.com/2016/12/06/that-app-you-love-is-headed-to-devconfcz/</guid>
       <description>Starting back in September I published a series of articles for the Red Hat Developer Blog under the series title “That App You Love”. I’m psyched to announce that “That App You Wrote”, my followup presentation, has been accepted as a talk at [DevConf.cz](https://devconf.cz) this month! Didn’t read the original series? You can follow along here:
   [Making a Connection](http://developerblog.redhat.com/2016/09/27/that-app-you-love-part-1-making-a-connection/)
   [Immutable but Flexible – What Settings Matter?](https://developers.redhat.com/blog/2016/09/29/that-app-you-love-part-2-immutable-but-flexible-what-settings-matter/)</description>

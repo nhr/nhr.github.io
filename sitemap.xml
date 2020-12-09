@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.nharrisonripps.com/about/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nharrisonripps.com/projects/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.nharrisonripps.com/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>

@@ -9,6 +9,26 @@
     <copyright>All content copyright &amp;#169; 2014-2020, N. Harrison Ripps except where noted.</copyright>
     <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nharrisonripps.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Me</title>
+      <link>https://www.nharrisonripps.com/about/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nharrisonripps.com/about/</guid>
+      <description>I&amp;rsquo;m a career technologist and writer, hobbyist dj, and obstacle course racer — with about a dozen other hobbies as well.
+ If you want to connect professionally, reach out on LinkedIn. If you are into social media, the only place I&amp;rsquo;m really active is fosstodon.  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.nharrisonripps.com/projects/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nharrisonripps.com/projects/</guid>
+      <description>Coding Projects I&amp;rsquo;m nhr on GitHub. Here are some of my more interesting projects:
+Shiftzilla While I was part of the OpenShift team, I was responsible for managing several consecutive product releases. Understanding our progress against bug counts was critical to staying on top of our quarterly release cadence. I wrote Shiftzilla to start capturing Bugzilla-based info and offering us a way to analyze long-time trends on a per-release and per-development-team basis.</description>
+    </item>
+    
+    <item>
       <title>Fedora 31 on the Razer Stealth GTX (Late 2019)</title>
       <link>https://www.nharrisonripps.com/2019/12/18/fedora-31-on-the-razer-stealth-gtx-late-2019/</link>
       <pubDate>Wed, 18 Dec 2019 19:49:52 +0000</pubDate>
